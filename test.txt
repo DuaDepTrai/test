@@ -1,4 +1,0 @@
-npm create vite@latest MyApp
-cd MyApp
-npm install
-npm run dev
